@@ -8,7 +8,6 @@ import random
 source_folder_path = "train"
 target_folder_path = "line_follow_dataset"
 
-//9:1
 train_ratio = 0.9
 
 parser = argparse.ArgumentParser()
